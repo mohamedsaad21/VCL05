@@ -3,3 +3,4 @@ Second line in file.txt
 Third line in file.txt
 Fourth line added in file.txt
 Fifth line added in file.txt
+Sixth line added in file.txt
